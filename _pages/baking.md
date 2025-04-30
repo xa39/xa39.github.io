@@ -1,6 +1,5 @@
 ---
 title: "Baking with me"
-permalink: /baking/
 ---
 ### Azuki Bun
 ![azuki bun](/images/Azuki_Bun.jpg)
