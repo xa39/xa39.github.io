@@ -15,6 +15,6 @@ redirect_from:
 
 📝 Whether I'm analyzing market data, modeling risk, or building tools to streamline research, I’m driven by curiosity and precision. Outside of finance, I love experimenting in the kitchen, especially cooking for friends!
 
-🐈‍⬛ And yes, I'm a cat person who sends you tons of pictures of my cat - Say Hi to Melo! <img src="/images/melo.png" alt="cat" width:"300px"/>
+🐈‍⬛ And yes, I'm a cat person who sends you tons of pictures of my cat - Say Hi to Melo! <img src="/images/melo.png" alt="cat" style = " width:300px;float: right;"/>
 
 
