@@ -1,6 +1,4 @@
 ---
-layout: archive
 title: "Baking with me"
 permalink: /baking/
-author_profile: true
 ---
