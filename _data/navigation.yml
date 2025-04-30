@@ -10,8 +10,8 @@
 main:
  
   - title: "Travel"
-    url: /_Travel/travel.md
+    url: /_Travel/
 
   - title: "Cat"
-    url: /Project/cat.md
+    url: /Project/
  
