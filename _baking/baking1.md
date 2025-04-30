@@ -1,5 +1,5 @@
 ---
 title: "Azuki Bun"
-excerpt: "<br/><img src='/images/Azuki Bun.JPG'> "
+excerpt: "<br/><img src='/images/Azuki Bun.jpg'> "
 collection: baking
 ---
