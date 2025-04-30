@@ -1,4 +1,5 @@
 ---
-title: "Baking with me"
-permalink: /baking/
+title: "Azuki Bun"
+excerpt: "<br/><img src='/images/Azuki Bun.jpg'> "
+collection: baking
 ---
