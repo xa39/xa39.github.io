@@ -9,9 +9,9 @@
 
 main:
  
-  - title: "CV"
-    url: /files/An.Xinzhuo.pdf
+  - title: "Travel"
+    url: /Travel/
 
-  - title: "Projects"
-    url: /project/
+  - title: "Photography"
+    url: /Photography/
  
