@@ -13,8 +13,8 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Xinzhuo AN"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://xa39.github.io
+baseurl                  : ""
 repository               : "xa39/xa39.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -22,19 +22,16 @@ repository               : "xa39/xa39.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  
+  avatar           : "xinzhuoan.png"
+  name             : "Xinzhuo An"
+  pronouns         : "she/her"  
+  bio              : "Cornell MFE | Seeking Quant Research Internship"
+  location         : "Ithaca, New York"
+  employer         : "Cornell University"
   uri              : # URL
   email            : "xa39@cornell.edu" 
 
-  # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
-  impactstory      : # URL
-  orcid            : # URL
-  semantic         : # URL
-  pubmed           : # URL
-  researchgate     : # URL
-  scopus           : # URL
+
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
