@@ -10,8 +10,8 @@
 main:
  
   - title: "Travel"
-    url: /_Travel/
+    url: /Travel/
 
-  - title: "Cat"
-    url: /Project/
+  - title: "Baking"
+    url: /Baking/
  
