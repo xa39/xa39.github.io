@@ -9,11 +9,11 @@ redirect_from:
 
 
 
-👩🏻‍💻 I'm a Financial Engineering MEng student at Cornell University with a passion for data-driven decision-making, algorithmic trading, and quantitative research. I bring a unique blend of technical proficiency and creative problem-solving, backed by experience in machine learning, portfolio optimization, and execution strategy development.
+👩🏻‍💻 I'm a Financial Engineering MEng student at Cornell, passionate about using data to make smarter decisions in finance—whether that's through algorithmic trading, quantitative research, or building tools that bring models to life. I enjoy tackling complex problems with a mix of technical skill and creative thinking.
 
-📚 Previously, I studied in the UK at UCL and interned at RSA Insurance, where I automated workflows and worked with pricing models. I’ve also built models to forecast stock returns using LSTM networks, constructed mean-reverting portfolios with convex optimization, and developed execution algorithms to outperform TWAP benchmarks.
+📚 Before Cornell, I studied at UCL in the UK and interned at RSA Insurance, where I worked on pricing models and automated data workflows. More recently, I’ve built LSTM models to forecast stock returns, designed mean-reverting portfolios using convex optimization, and developed execution strategies that aim to beat TWAP benchmarks.
 
-📝 Whether I'm analyzing market data, modeling risk, or building tools to streamline research, I’m driven by curiosity and precision. Outside of finance, I love experimenting in the kitchen, especially cooking for friends!
+✈️ Outside of work, I love traveling to new places and baking for friends—nothing beats a good dessert after a long day of coding!
 
 🐈‍⬛ And yes, I'm a cat person who sends you tons of pictures of my cat - Say Hi to Melo! <img src="/images/melo.png" alt="cat" style = " width:300px;align: right;"/>
 
