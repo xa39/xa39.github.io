@@ -10,11 +10,9 @@
 main:
  
   - title: "Travel"
-    url: /Travel/
+    url: /portfolio/
 
   - title: "Baking"
     url: /Baking/
 
-  - title: "Portfolio"
-    url: /portfolio/
  
