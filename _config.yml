@@ -207,10 +207,10 @@ kramdown:
 collections:
   travel:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:name/
   baking:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:name/
 
 
 # These settings control how pages and collections are included in the site
