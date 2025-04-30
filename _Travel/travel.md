@@ -4,9 +4,4 @@ excerpt: "Rome, Italy <br/><img src='/images/aa.JPG'> <br/><img src='/images/bb.
 collection: travel
 ---
 
----
-title: "2023.11"
-excerpt: "Barcelona, Spain <br/><img src='/images/cc.jpg'> <br/><img src='/images/dd.jpg'>"
-collection: travel
----
 
