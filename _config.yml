@@ -22,7 +22,7 @@ repository               : "xa39/xa39.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  
+  avatar           : /images/xinzhuoan.png
   name             : "Xinzhuo An"
   pronouns         : "she/her"  
   bio              : "Cornell MFE | Seeking Quant Research Internship"
