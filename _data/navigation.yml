@@ -10,7 +10,7 @@
 main:
  
   - title: "Travel"
-    url: /Travel/
+    url: /Travel/travel.md
 
   - title: "Photography"
     url: /Photography/
