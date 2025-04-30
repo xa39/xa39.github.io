@@ -1,5 +1,5 @@
 ---
 title: "Focaccia"
-excerpt: "<br/><img src='/images/Focaccia.JPG'> "
+excerpt: "<br/><img src='/images/Focaccia.jpg'> "
 collection: baking
 ---
